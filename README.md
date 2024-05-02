@@ -7,7 +7,13 @@ git clone https://github.com/bulat-nitaliev/aviatickets.git
 ```
 ```shell
 cd proj_name  
-npm install  
-npm run dev  
+```
+```shel
+npm install
+```
+```shell
+npm run dev
+```
+```shell 
 npm run build
 ```
